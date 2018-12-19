@@ -1,0 +1,5 @@
+Cefalea = Alta
+Fiebre = Media
+Dolor en las articulaciones = Presente
+Persistencia por varios días = Presente
+Conjuntivitis = Presente

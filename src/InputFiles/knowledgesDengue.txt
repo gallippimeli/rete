@@ -1,0 +1,6 @@
+Fiebre = Alta
+Cefalea = Alta
+Petequias/Sangrado nariz o ansías = Presente
+Sarpullido = Presente
+Dolor en las articulaciones = Presente
+Dificultad para respirar = Presente

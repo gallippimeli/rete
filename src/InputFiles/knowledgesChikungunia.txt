@@ -1,0 +1,6 @@
+Fiebre = Alta
+Dolor en las articulaciones = Presente
+Persistencia por varios días = Presente
+Cefalea = Media
+Petequias/Sangrado nariz o ansías = Ausente
+Dificultad para respirar = Ausente

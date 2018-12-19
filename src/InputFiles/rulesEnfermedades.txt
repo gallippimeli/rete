@@ -1,0 +1,40 @@
+(R1_ Paciente con Dengue
+Fiebre = Alta
+Y Cefalea = Alta
+Y Petequias/Sangrado nariz o ansías = Presente
+Y Sarpullido = Presente
+Y Dolor en las articulaciones = Presente
+Y Dificultad para respirar = Presente
+-->
+Diagnostico = Dengue
+)
+(R2_ Paciente con Zika
+Cefalea = Alta
+Y Fiebre = Media
+Y Dolor en las articulaciones = Presente
+Y Persistencia por varios días = Presente
+Y Conjuntivitis = Presente
+O Cefalea = Media
+Y Fiebre = Media
+Y Dolor en las articulaciones = Presente
+Y Persistencia por varios días = Presente
+Y Conjuntivitis = Presente
+-->
+Diagnostico = Zika
+)
+(R3_ Paciente con Chikunguña
+Fiebre = Alta
+Y Dolor en las articulaciones = Presente
+Y Persistencia por varios días = Presente
+Y Cefalea = Media
+Y Petequias/Sangrado nariz o ansías = Ausente
+Y Dificultad para respirar = Ausente
+O Fiebre = Alta
+Y Dolor en las articulaciones = Presente
+Y Persistencia por varios días = Presente
+Y Cefalea = Media
+Y Petequias/Sangrado nariz o ansías = Ausente
+Y Dificultad para respirar = Ausente
+-->
+Diagnostico = Chikunguña
+)
